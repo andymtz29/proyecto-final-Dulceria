@@ -1,0 +1,23 @@
+body{
+    background: url("https://img.freepik.com/foto-gratis/fondo-dibujos-animados-3d-ninos_23-2150150788.jpg") fixed no-repeat 0 0;
+	background-size: cover;
+	background-position: center center;
+    color: #0f0f0f;
+}
+
+.fondo{
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+    border: 2px #060606 solid;
+}
+
+btn-link{
+    text-decoration: none;
+    color: #121212;
+}
+
+.bg-card{
+    background-color: rgb(0, 0, 0,0.7);
+    border-radius: 10px;
+    border: 2px #060606 solid;
+}

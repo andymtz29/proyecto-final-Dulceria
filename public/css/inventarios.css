@@ -1,0 +1,18 @@
+body{
+    background: url("https://static.vecteezy.com/system/resources/previews/011/896/064/non_2x/wooden-background-with-sweet-treat-frame-from-lollipops-candies-cartoon-illustration-for-holiday-store-halloween-space-for-text-vector.jpg") fixed no-repeat 0 0;
+	background-size: cover;
+	background-position: center center;
+    color: #0f0f0f;
+}
+
+
+btn-link{
+    text-decoration: none;
+    color: #121212;
+}
+
+.bg-card{
+    background-color: rgb(0, 0, 0,0.7);
+    border-radius: 10px;
+    border: 2px #060606 solid;
+}
